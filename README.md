@@ -1,10 +1,10 @@
-# Vanessa Dumlao - Portfolio 
+# Vanessa Dumlao - Portfolio :wave:
 My name is Vanessa Dumlao and I am a Computer Science student at the University of Washington! I’m passionate about front-end development, UI design, and creating intuitive, visually engaging digital experiences. This portfolio showcases my work as I continue growing as a developer who loves bringing ideas to life on the screen.
 
-## About Me 
+## About Me 🖤
 I am pursuing a B.A. in Computer Science at the University of Washington with a minor in Innovation and Design. I enjoy solving problems through clean, thoughtful code and creating tools that improve everyday workflows. 
 
-## Projects 
+## Projects 📝
 ### Student Grade Tracker 
 **Tech:** Java 
 A command-line tool for storing student data, validating inputs, and calculating averages. 
@@ -13,12 +13,12 @@ A command-line tool for storing student data, validating inputs, and calculating
 - Strengthened debugging techniques through iterative testing
 ### Work in progress
 
-## Skills 
+## Skills 💻
 - **Languages:** Java, HTML/CSS
 - **Software Tools/Frameworks:** GitHub, IntelliJ IDEA
 - **Core Competencies:** Object-Oriented Programming, Data Structures, Debugging, JUnit Testing, Front-End Development  
 
-## Experience 
+## Experience 🔖
 **Bartender**
 - Delivered strong service in a high-pressure environment
 - Strengthened communication, teamwork, and multitasking
@@ -37,9 +37,9 @@ A command-line tool for storing student data, validating inputs, and calculating
 - Supported students in understanding geometry concepts
 - Improved communication and analytical reasoning
 
-## Here you can find my [Resume](https://docs.google.com/document/d/1PbU3ELV7N0-eczCrR0cyGxP2R7IpvJfvP9mJ7qpr7Fw/edit?usp=sharing)
+## 📎 Here you can find my [Resume](https://docs.google.com/document/d/1PbU3ELV7N0-eczCrR0cyGxP2R7IpvJfvP9mJ7qpr7Fw/edit?usp=sharing)
 
-## Contact 
+## Contact 📱
 Email: VanessaSDumlao@gmail.com 
 
 [LinkedIn](www.linkedin.com/in/vdumlao)

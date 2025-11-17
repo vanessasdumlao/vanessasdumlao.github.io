@@ -23,13 +23,16 @@ A command-line tool for storing student data, validating inputs, and calculating
 - Delivered strong service in a high-pressure environment
 - Strengthened communication, teamwork, and multitasking
 - Built transferable collaboration and problem-solving skills
+  
 **Server/Bartender**
 - Maintained accuracy under pressure
 - Quickly adapted to new systems and workflows
 - Developed user-focused thinking aligned with UX principles
+  
 **Certified Nursing Assistant**
 - Maintained detailed records and followed strict procedures
 - Gained attention to detail and dependability
+  
 **Volunteer Tutor**
 - Supported students in understanding geometry concepts
 - Improved communication and analytical reasoning

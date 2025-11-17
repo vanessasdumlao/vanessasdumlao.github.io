@@ -23,7 +23,7 @@ A command-line tool for storing student data, validating inputs, and calculating
 - Delivered strong service in a high-pressure environment
 - Strengthened communication, teamwork, and multitasking
 - Built transferable collaboration and problem-solving skills
-**Server Bartender**
+**Server/Bartender**
 - Maintained accuracy under pressure
 - Quickly adapted to new systems and workflows
 - Developed user-focused thinking aligned with UX principles
@@ -38,6 +38,7 @@ A command-line tool for storing student data, validating inputs, and calculating
 
 ## Contact 
 Email: VanessaSDumlao@gmail.com 
+
 [LinkedIn](www.linkedin.com/in/vdumlao)
 
 

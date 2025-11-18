@@ -7,6 +7,7 @@ I am pursuing a B.A. in Computer Science at the University of Washington with a 
 ## Projects 📝
 ### Student Grade Tracker 
 **Tech:** Java 
+
 A command-line tool for storing student data, validating inputs, and calculating averages. 
 - Built data structures for storing student records
 - Added input validation for reliability

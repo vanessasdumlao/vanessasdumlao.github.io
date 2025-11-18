@@ -11,7 +11,7 @@ A command-line tool for storing student data, validating inputs, and calculating
 - Built data structures for storing student records
 - Added input validation for reliability
 - Strengthened debugging techniques through iterative testing
-### Work in progress
+### *Work in progress...*
 
 ## Skills 💻
 - **Languages:** Java, HTML/CSS
@@ -42,7 +42,7 @@ A command-line tool for storing student data, validating inputs, and calculating
 ## Contact 📱
 Email: VanessaSDumlao@gmail.com 
 
-[LinkedIn](www.linkedin.com/in/vdumlao)
+[LinkedIn](https://www.linkedin.com/in/vanessa-dumlao-142007315/)
 
 
 
